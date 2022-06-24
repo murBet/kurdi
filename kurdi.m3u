@@ -2,3 +2,9 @@
 
 #EXTINF:-1 tvg-id="Stêrk TV" tvg-name="Stêrk TV" tvg-language="Kurdish" tvg-logo="https://sterktv1.net/wp-content/uploads/2019/10/cropped-sterk-logo-1-2.png",Stêrk TV
 https://muzkurd.com/sterktv/sterk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Medya Haber TV" tvg-name="Medya Haber TV" tvg-language="Kurdish" tvg-logo="https://medyahaber.info/wp-content/uploads/2022/01/logo1-285x300-1beyaz-90x90-1-1-1-e1641661105995.png",Medya Haber TV
+https://muzkurd.com/Medya/live15/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jin TV" tvg-name="Jin TV" tvg-language="Kurdish" tvg-logo="https://pbs.twimg.com/profile_images/971702744846405632/GvHy90sO_400x400.jpg",Jin TV
+https://live.jintv.org:12443/medialive/jintv.m3u8
